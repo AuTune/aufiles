@@ -4,8 +4,8 @@
     monitors = [
       {
         name = "eDP-1";
-        width = 2256;
-        height = 1504;
+        width = 1920;
+        height = 1080;
         workspaces = [
           1
           2
@@ -20,9 +20,6 @@
         ];
       }
     ];
-
-    pathofbuilding.enable = true;
-    rclip.enable = true;
 
     terminal.size = 12;
 
